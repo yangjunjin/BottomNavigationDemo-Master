@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ChangeColorIconWithTextActivity"/>
+        <activity android:name=".NoScrollActivity"/>
+        <activity android:name=".ViewPagerRadioGroupActivity"/>
+        <activity android:name=".ViewPagerRedDotActivity"/>
     </application>
 
 </manifest>

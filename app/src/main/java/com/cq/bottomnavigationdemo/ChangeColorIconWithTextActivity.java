@@ -88,7 +88,7 @@ public class ChangeColorIconWithTextActivity extends FragmentActivity implements
             left.setIconAlpha(1 - positionOffset);
             right.setIconAlpha(positionOffset);
         }
-        Log.e("ChangeColorIconWithTextActivity====","onPageScrolled===="+positionOffset);
+        Log.e("ChangeColorIc====","onPageScrolled===="+positionOffset);
     }
 
     @Override
